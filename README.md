@@ -734,6 +734,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [ratx](https://github.com/liveforeverx/ratx) - Rate limiter and overload protection for erlang application.
 * [reprise](https://github.com/herenowcoder/reprise) - Simplified module reloader for Elixir.
 * [spawndir](https://github.com/jtmoulia/spawndir) - Spawns processes from the file system.
+* [std_json_io](https://github.com/hassox/std_json_io) - A simple library for Elixir that provides json over STDIO.
 * [url_unroller](https://github.com/semanticart/url_unroller) - Simple URL unroller (un-shortener) in Elixir.
 
 ## Native Implemented Functions
